@@ -7,6 +7,4 @@ function reverseString(input) {
     }
 }
 
-console.log(reverseString("Hello World!"));
-
 module.exports = reverseString;

@@ -14,8 +14,4 @@ function analyzeArray(array) {
     return obj;
 }
 
-const object = analyzeArray([2, 9, 5, 7, 3]);
-
-console.log(object);
-
 module.exports = analyzeArray;

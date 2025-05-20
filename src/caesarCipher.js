@@ -20,6 +20,4 @@ function caesarCipher(input, num) {
     return result;
 }
 
-console.log(caesarCipher("abc", -1));
-
 module.exports = caesarCipher;
